@@ -25,6 +25,7 @@ const courses = {
         "todo": [
             "freecodecamp.org",
             "https://coderbyte.com/starter-course/learn-javascript-in-one-week",
+            "https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org"
         ],
         "Done": [
 
@@ -57,6 +58,13 @@ const courseData = function dataOfCourses() {
 
 
 
+let msg = 1;
+
+function hello(msg) {
+    msg = 2;
+}
+
+
 function logger() {
     console.log("🚀🚀🚀🚀🚀🚀 100 days of javascript");
     console.log('🚀🚀🚀🚀🚀🚀 getCourses()');
@@ -68,5 +76,6 @@ function logger() {
     console.log('----------------------------------------------------');
     console.log();
     console.log(sum(2, 5));
+    console.log(hello());
 }
 logger();
