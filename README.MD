@@ -3,7 +3,7 @@
 ## Javascript (from : 2020-09-12)
 - `Day 1` 
 - - [Pluralsight] 01 JavaScript- Getting Started (06. Functions)
-- - edabit XP 44
+- - edabit XP 45
 - - steve jobs Doc https://www.youtube.com/watch?v=BC30beBzyN8&ab_channel=MnesBlue
 - - 
 - - 
