@@ -117,3 +117,8 @@ console.log('🚀🚀🚀🚀🚀🚀 skills2');
 console.log(skills2);
 console.log('----------------------------------------------------');
 console.log();
+
+console.log('🚀🚀🚀🚀🚀🚀 Array');
+console.log(Array);
+console.log('----------------------------------------------------');
+console.log();
