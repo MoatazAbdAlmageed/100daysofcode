@@ -225,6 +225,9 @@
 
 
 
+# Wikipedia
+- Stephen Gary Wozniak
+
 # Serial
 - `Day` 1
 - `Day` 2
