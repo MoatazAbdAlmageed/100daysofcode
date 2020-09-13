@@ -1,0 +1,10 @@
+{
+  "name": "100daysofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MoatazAbdAlmageed <moataz@wuilt.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  }
+}
