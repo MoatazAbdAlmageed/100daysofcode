@@ -3,6 +3,7 @@
 ## Javascript (from : 2020-09-12)
 - `Day 1` : 2020-09-12
 - - Preparing
+- - bill gates https://www.youtube.com/watch?v=XQd3dKeMAT8&ab_channel=rr3rcomar
 - `Day 2` : 2020-09-13
 - - [Pluralsight] 01 JavaScript- Getting Started 
 - - - 06. Functions
