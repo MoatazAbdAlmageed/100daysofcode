@@ -60,9 +60,17 @@ const courseData = function dataOfCourses() {
 
 let msg = 1;
 
-function hello(msg) {
+function changeMessage(msg) {
     msg = 2;
 }
+
+function logMsg() {
+    console.log('🚀🚀🚀🚀🚀🚀 msg');
+    console.log(msg);
+    console.log('----------------------------------------------------');
+    console.log();
+}
+
 
 
 function logger() {
@@ -76,6 +84,36 @@ function logger() {
     console.log('----------------------------------------------------');
     console.log();
     console.log(sum(2, 5));
-    console.log(hello());
+    changeMessage(10)
+    console.log(logMsg());
 }
-logger();
+
+// logger();
+
+
+
+/**
+ * Arrays
+ */
+
+let skills = [
+    'HTML',
+    'CSS',
+    'JS',
+    'PHP',
+]
+let skills2 = Array.of(
+    'HTML',
+    'CSS',
+    'JS',
+    'PHP')
+
+console.log('🚀🚀🚀🚀🚀🚀 skills');
+console.log(skills);
+console.log(skills.length);
+console.log('----------------------------------------------------');
+console.log();
+console.log('🚀🚀🚀🚀🚀🚀 skills2');
+console.log(skills2);
+console.log('----------------------------------------------------');
+console.log();
