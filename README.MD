@@ -9,7 +9,7 @@
 - - [Pluralsight] 01 JavaScript- Getting Started 
 - - - 06. Functions
 - - - 07. Objects and the DOM
-- - edabit XP 105
+- - edabit XP 110
 - - steve jobs Documentary https://www.youtube.com/watch?v=BC30beBzyN8&ab_channel=MnesBlue
 - - `Symbols` https://www.freecodecamp.org/news/how-did-i-miss-javascript-symbols-c1f1c0e1874a/#:~:text=Symbols%20are%20new%20primitive%20type,()%20which%20returns%20a%20Symbol.&text=Every%20time%20you%20call%20the,and%20unique%20symbol%20is%20created.
 - -  https://edabit.com/challenge/vvuAkYEAArrZvmp6X
