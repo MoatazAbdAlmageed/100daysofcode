@@ -1,3 +1,4 @@
+const mySym = Symbol();
 const courses = {
     pluralsight: {
         "todo": [
@@ -20,7 +21,7 @@ const courses = {
 
         ]
     },
-    Others: {
+    [mySym]: {
         "todo": [
             "freecodecamp.org",
             "https://coderbyte.com/starter-course/learn-javascript-in-one-week",
