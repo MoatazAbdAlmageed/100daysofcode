@@ -1,7 +1,13 @@
 # Now
 
 ## Javascript (from : 2020-09-12)
-- `Day 1` [Pluralsight] 01 JavaScript- Getting Started (06. Functions)
+- `Day 1` 
+- - [Pluralsight] 01 JavaScript- Getting Started (06. Functions)
+- - edabit XP 44
+- - steve jobs Doc https://www.youtube.com/watch?v=BC30beBzyN8&ab_channel=MnesBlue
+- - 
+- - 
+- - 
 - `Day` 2
 - `Day` 3
 - `Day` 4
@@ -104,7 +110,7 @@
 
 
 # 100daysofDocumentary
-- `Day` 1 https://www.youtube.com/watch?v=BC30beBzyN8&ab_channel=MnesBlue
+- `Day` 1 
 - `Day` 2
 - `Day` 3
 - `Day` 4
