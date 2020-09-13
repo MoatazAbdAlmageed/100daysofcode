@@ -1,5 +1,3 @@
-console.log("🚀🚀🚀🚀🚀🚀 100 days of javascript");
-
 const courses = {
     pluralsight: {
         "todo": [
@@ -40,7 +38,33 @@ function getCourses() {
     return courses;
 }
 
-console.log('🚀🚀🚀🚀🚀🚀 getCourses()');
-console.log(getCourses());
-console.log('----------------------------------------------------');
-console.log();
+
+// ReferenceError: dataOfCourses is not defined
+// console.log(dataOfCourses);
+
+
+
+function sum(x, y) {
+    return x + y;
+}
+
+
+const courseData = function dataOfCourses() {
+    console.log("dataOfCourses");
+};
+
+
+
+function logger() {
+    console.log("🚀🚀🚀🚀🚀🚀 100 days of javascript");
+    console.log('🚀🚀🚀🚀🚀🚀 getCourses()');
+    console.log(getCourses());
+    console.log('----------------------------------------------------');
+    console.log();
+    console.log('🚀🚀🚀🚀🚀🚀 courseData');
+    console.log(courseData());
+    console.log('----------------------------------------------------');
+    console.log();
+    console.log(sum(2, 5));
+}
+logger();
