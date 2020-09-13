@@ -101,24 +101,33 @@ let skills = [
     'CSS',
     'JS',
     'PHP',
-]
-let skills2 = Array.of(
-    'HTML',
-    'CSS',
-    'JS',
-    'PHP')
+];
+
+// Array.of(
+//     'HTML',
+//     'CSS',
+//     'JS',
+//     'PHP')
+skills.push('nodejs');
+skills.push('mongodb');
+
+skills.pop(); // Removes the last element from an array and returns it.
+skills.shift(); // Removes the first element from an array and returns it.
+skills.unshift('html'); // Removes the first element from an array and returns it.
 
 console.log('🚀🚀🚀🚀🚀🚀 skills');
 console.log(skills);
 console.log(skills.length);
 console.log('----------------------------------------------------');
-console.log();
-console.log('🚀🚀🚀🚀🚀🚀 skills2');
-console.log(skills2);
+
+console.log(skills[0]);
+console.log(skills[1]);
+console.log(skills[2]);
 console.log('----------------------------------------------------');
 console.log();
 
-console.log('🚀🚀🚀🚀🚀🚀 Array');
-console.log(Array);
-console.log('----------------------------------------------------');
-console.log();
+console.log(skills.slice(0, 2));
+
+/**
+ * Time now is 2020-09-13 13:05:00
+ */
