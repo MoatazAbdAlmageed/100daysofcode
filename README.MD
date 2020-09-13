@@ -5,6 +5,7 @@
 - - Preparing
 - - bill gates https://www.youtube.com/watch?v=XQd3dKeMAT8&ab_channel=rr3rcomar
 - `Day 2` : 2020-09-13
+-- https://twitter.com/MoatazMohammady/status/1305024572182454273
 - - [Pluralsight] 01 JavaScript- Getting Started 
 - - - 06. Functions
 - - - 07. Objects and the DOM

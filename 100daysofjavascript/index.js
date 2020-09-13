@@ -139,6 +139,53 @@ console.log();
 
 
 
+const names = [
+    'moataz',
+    'Hamza',
+
+];
+
+
+let names2 = names.slice()
+// add ali in the beginning 
+names.unshift('ali')
+
+
+// remove last item 'hamze
+
+// replace moataz with eman
+
+
+/// remove ali 
+
+names.shift()
+names.splice(1, 1, 'eman')
+names.pop()
+console.log('🚀🚀🚀🚀🚀🚀 names');
+console.log(names);
+console.log('----------------------------------------------------');
+console.log();
+
+//
+
+
 /**
  * Time now is 2020-09-13 13:05:00
  */
+
+
+console.log('🚀🚀🚀🚀🚀🚀 names2');
+console.log(names2);
+console.log('----------------------------------------------------');
+console.log();
+console.log(names2.indexOf('Hamza'));
+console.log(names2.indexOf('Hamza2'));
+const result = names2.filter(function (name) {
+    return name == 'Hamza' || name == 'moataz'
+})
+const result2 = names2.find(function (name) {
+    return name == 'Hamza';
+})
+
+console.log(result);
+console.log(result2);
