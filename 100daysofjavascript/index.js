@@ -22,6 +22,7 @@ const courses = {
     },
     Others: {
         "todo": [
+            "freecodecamp.org",
             "https://coderbyte.com/starter-course/learn-javascript-in-one-week",
         ],
         "Done": [
