@@ -6,6 +6,10 @@
 ## Python
 - - https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python
 
+## React
+## NodeJS
+## MongoDB
 ## PHP
 ## Laravel
 ## GO
+## Linux
