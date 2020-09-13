@@ -1,6 +1,6 @@
 #100daysofcode:
 
-## Javascript
+## Javascript (from : 2020-09-12)
 - - https://github.com/hoodielive/100daysofjavascript
 
 ## Python
